@@ -1,0 +1,51 @@
+.banner-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 50%;
+    padding: 10px;
+    background-color: rgb(14, 13, 14);
+}
+.content{
+    color: white;
+}
+.Big{
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+}
+.ami{
+    background-color: aquamarine;
+    border-radius: 200px;
+}
+.tumi{
+    background-color: red;
+    border-radius: 500px;
+}
+.one{
+    display: flex;
+    width: 1000px;
+}
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    display: flex;
+    display: inline;
+}
+.container{
+max-width: 1170px;
+background-color: red;
+margin: auto;
+}
+.footer{
+    background-color: #24262b;
+    padding: 70px 0;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15%;
+    display: block;
+}
